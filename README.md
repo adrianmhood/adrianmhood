@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌤️
 *About Me*
 
 I'm a Solar Engineer in Southern California, blending my passion for renewable energy with my background in programming and tech. I've previously worked on several simulation research projects as a mechanical engineering undergrad.
