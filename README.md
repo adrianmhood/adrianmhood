@@ -10,7 +10,8 @@ My current focus is enhancing solar energy solutions through Machine Learning in
 
 *Connect*
 
-Let's collaborate on innovative solar projects or tech ideas! Reach out to discuss anything related to solar technology or programming.
+I'm open to collaborate on new solar tech! Reach out if you have an interesting project you'd like some feedback or support with.
+
 <!--
 **adrianmhood/adrianmhood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
