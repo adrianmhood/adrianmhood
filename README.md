@@ -1,12 +1,12 @@
 ### Hi there 👋
 *About Me*
 
-I'm a Solar Engineer in Southern California, blending my passion for renewable energy with my background in programming and technology. I also worked on simulation research projects as an undergraduate in mechanical engineering.
+I'm a Solar Engineer in Southern California, blending my passion for renewable energy with my background in programming and tech. I've previously worked on several simulation research projects as a mechanical engineering undergrad.
 
 *Experience*
 
-In previous roles I've developed interactive switch interfaces, lighting FX controls, and physical model simulations using Python on Raspberry Pi, Arduino, and basic C.
-My current focus is enhancing solar energy solutions through Machine Learning in Python and exploring web development fundamentals.
+In previous jobs I've developed interactive switch and sound interfaces, lighting FX controls, and process automation using Python on Raspberry Pi, Arduino, and basic C tools.
+My current focus is enhancing solar energy solutions through Machine Learning in Python and exploring web development concepts.
 
 *Connect*
 
