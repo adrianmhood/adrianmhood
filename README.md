@@ -10,7 +10,7 @@ My current focus is in automating the solar design process through OCR in Python
 
 *Connect*
 
-I'm open to collaborate on new solar tech! Reach out if you have an interesting project you'd like some feedback or support with.
+I'm open to collab on new solar tech! Reach out if you have an interesting project you'd like some feedback or collaboration with.
 
 <!--
 **adrianmhood/adrianmhood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
