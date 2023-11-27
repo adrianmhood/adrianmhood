@@ -1,6 +1,6 @@
 ### Hi there 🌤️
 *About Me*  
-I'm a solar engineer in Southern California with a passion for new approaches to the design process. I've previously worked on several energy-simulation research projects as a mechanical engineering undergrad, in coding environments ranging from C, MATLAB, and FORTRAN. I'm exploring ways of building value in the solar and battery plan design process, giving engineers and homeowners the ability to build technically accurate and up-to-date plans faster than ever.
+I'm a solar engineer in Southern California with a passion for optimizing the design process. I've previously worked on several energy-simulation research projects as a mechanical engineering undergrad, in coding environments ranging from C, MATLAB, and FORTRAN. I'm exploring ways of building value in the solar and battery plan design process, giving engineers and homeowners the ability to build technically accurate and up-to-date plans faster than ever.
 
 *Experience*  
 In the real world, I've developed interactive switch and sound interfaces, lighting FX controls, and process automation using Python on Raspberry Pi, Arduino, and basic C tools.
