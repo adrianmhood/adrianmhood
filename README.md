@@ -4,7 +4,7 @@ I'm a solar engineer in Southern California with a passion for optimizing the de
 
 *Experience*  
 In the real world, I've developed interactive switch and sound interfaces, lighting FX controls, and process automation using Python on Raspberry Pi, Arduino, and basic C tools.
-My current focus is in automating the solar design process, starting with basic OCR in Python, and basic web dev tools for interface design.  
+I'm currently working with OCR in Python and web dev tools for interface design.  
 
 *Connect*  
 I'm open to building new solar tech together, this is definitely a place of opportunity with the application of new digital ML tools. Reach out if you have a project you're working on in solar design and/or automation, or if you have any questions about my work. Cheers!  
