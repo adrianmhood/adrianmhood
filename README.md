@@ -28,5 +28,4 @@ Welcome! I'm Adrian, a solar engineer from Southern California. I blend my mecha
 
 **Reach Out**
 - 📧 [adrianhoodenergy@gmail.com](mailto:adrianhoodenergy@gmail.com)
-- 📞 903.279.1146
-- [LinkedIn Profile](#)
+- Connect on <a href="https://www.linkedin.com/in/adrian-hood/" target="_blank">LinkedIn</a>
