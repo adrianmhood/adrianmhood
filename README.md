@@ -2,19 +2,19 @@
 
 ---
 
-Welcome! I'm Adrian, a solar engineer from Southern California. I blend my mechanical engineering background with a passion for sustainable energy, striving to enhance residential solar systems through innovative design and technology.
+Welcome! I'm Adrian, a solar engineer in Southern California. I blend my mechanical engineering background with a passion for sustainable energy in my search for design automation.
 
 ---
 
 ### About Me
-- Bridging the gap between traditional solar engineering and modern tech advancements.
-- Experienced in Python, AutoCAD, and pioneering in OCR for solar design.
+- Bridging the gap between traditional solar engineering and new ML models.
+- Experienced in Python, AutoCAD, and solar design.
 
 ### Professional Experience
-- From mechatronics to solar design, I've navigated diverse engineering landscapes.
+- From mechatronics to manufacturing to solar, I have a diverse background of engineering experience.
 - Currently focused on integrating AI to streamline solar energy planning.
 
-### Let's Connect
+### Let's Connect!
 - Always interested in discussing new ideas in solar tech and potential collaborations.
 
 ---
