@@ -1,6 +1,6 @@
 ### Hi there 🌤️
 *About Me*  
-I'm a solar engineer in Socal looking to reinvent the residential solar and battery design process. I've previously worked on several energy-simulation research projects as a mechanical engineering undergrad. These include using C, MATLAB, Mathematica, Fortran, and Python. 
+I'm a solar engineer in Socal reinventing the residential solar and battery design process. I've previously worked on several energy-simulation research projects as a mechanical engineering undergrad. These include using C, MATLAB, Mathematica, Fortran, and Python. 
 
 *Experience*  
 In 2019, I briefly worked as the lead mechatronics engineer in a prototyping & design startup as my first job out of college. It was a custom build shop for high-end toy stores, and we mainly focused on switch and sound interfaces with lighting FX controls for interactive games and immersive experiencs. The software was mostly written in Python on Raspberry Pi, with lots of hand-soldered circuit components and CNC-made parts to bring it all together. Now, I'm working with OCR in Python and web dev tools for interface design, exploring how to build accurate solar plans faster than ever.
